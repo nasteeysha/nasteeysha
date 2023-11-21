@@ -4,7 +4,7 @@ On this page you can get acquainted with the projects that I have carried out. <
 Welcome in my page!🥰
 ## Skills:
   - 🙌🏻 Android SDK, Gradle, Android Studio,.NET Framework, .NET Core, Linux, Git
-  - 👨🏻‍💻 Kotlin, C#, C/C++, SQL
+  - 🧙‍♀️ Kotlin, C#, C/C++, SQL
 
 ## About
   - 🌱 Student of [21 School](https://21-school.ru) in Moscow
