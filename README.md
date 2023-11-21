@@ -16,7 +16,7 @@ Welcome in my page!🥰
 ____
 
 <br />
-<h2> 🧑‍💻 My Projects: </h2>
+<h2> 👩‍💻 My Projects: </h2>
 
 <details>
   <summary><h2>C</h2></summary>
